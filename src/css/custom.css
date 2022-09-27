@@ -1,0 +1,24 @@
+img{
+    width: 100%;
+    height: auto;
+}
+.btn-position {
+    position: absolute;
+    bottom: 270px;
+    left: 100px;
+ }
+ .btn-position1 {
+  position: absolute;
+  bottom: 270px;
+  left: 670px;
+}
+
+.btnStyle {
+  border-radius: 20px;
+  padding: 10px 30px;
+  font: normal normal 600 14px/18px Montserrat;
+  letter-spacing: 0px;
+  color: #FFFFFF;
+  background: transparent linear-gradient(180deg, #FD9802 0%, #FD9603 47%, #FC8D05 74%, #FB800A 96%, #FB7C0B 100%) 0% 0% no-repeat padding-box;
+  transition: .5s all;
+}
